@@ -1,5 +1,10 @@
 # koachassignment_login-signup
-basic login signup page
+basic login-signup backend
+<h3>features that it have with 3 routes endpoint</h3>
+1)signup endpoint with username and password(with the required features as mention in assignment)
+2)login with credentials and if correct the cookies will setup in client browser for further login
+3) if client already login then its rotues for taking the token from cookie setup in client system and then sending the user information
+
 
 <h3>To run progam</h3>
 <h5>follow given steps</h5>
