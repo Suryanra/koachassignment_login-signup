@@ -1,6 +1,14 @@
 # koachassignment_login-signup
 basic login signup page
 
+<h3>To run progam</h3>
+<h5>follow given steps</h5>
+<ul>
+  <li>clone repo in local system</li>
+  <li>run npm install</li>
+  <li>run nodemon index.js</li>
+</ul>
+
 
 signup api => with username and password(with no username conflict)
 ![image](https://github.com/Suryanra/koachassignment_login-signup/assets/142992104/ce4bb3bc-1d11-477e-a26d-5aba28c2abc5)
